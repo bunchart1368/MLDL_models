@@ -1,0 +1,4 @@
+Metric,Best Model,Best Parameters,Score
+MSE,RandomForestRegressor,"{'max_depth': None, 'n_estimators': 100}",10835923.26696288
+MAE,RandomForestRegressor,"{'max_depth': None, 'n_estimators': 100}",2428.320237104367
+R²,RandomForestRegressor,"{'max_depth': None, 'n_estimators': 100}",0.625928048692818
